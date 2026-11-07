@@ -1,0 +1,6 @@
+{
+  "name": "AI Awakening",
+  "description": "An interactive, mobile-first surprise experience featuring neural puzzles, witty AI dialogues, code sprints, and an appreciative tribute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
